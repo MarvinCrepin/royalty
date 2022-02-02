@@ -17,7 +17,7 @@ Next, move into the project and use Composer to download the application
 dependencies:
 
 ```
-$ cd symfoCine/
+$ cd royalty/
 $ composer install
 ```
 
@@ -31,7 +31,7 @@ If you have PHP 5.4 or higher, there is no need to configure a virtual host
 in your web server to access the application. Just use the built-in web server:
 
 ```
-$ cd symfoCine/
+$ cd royalty/
 $ symfony serve
 ```
 
