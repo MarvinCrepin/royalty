@@ -10,7 +10,7 @@ First, clone this repository using Git.
 execute the following command:
 
 ```
-$ git clone https://github.com/MarvinCrepin/symfoCine
+$ git clone https://github.com/MarvinCrepin/royalty
 ````
 
 Next, move into the project and use Composer to download the application
