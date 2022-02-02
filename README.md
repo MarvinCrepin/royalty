@@ -1,4 +1,4 @@
-# Royalty Family 🎬
+# Royalty Family 👑
 
 This project consists in creating a web application in 2 days, with the objective of displaying a list of royal family's members, who can register by themselves on the site.
 They can also do a 360 degree tour of their family castle.
